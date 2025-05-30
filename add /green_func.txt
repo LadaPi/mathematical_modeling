@@ -1,0 +1,1 @@
+G(s)=\frac{H(t-\frac{r}{c})}{2\pi c \sqrt{c^2 t^2-r^2}}
