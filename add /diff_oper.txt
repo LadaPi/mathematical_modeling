@@ -1,0 +1,1 @@
+L(\partial_s)={\partial_t}^2-c^2({\partial_{x_1}}^2+{\partial_{x_1}}^2)
